@@ -92,4 +92,4 @@ export function shortestRemainingTimeFirst(processes: Process[]): Process[] {
   }
 
   return mergedResult;
-}
+} 
