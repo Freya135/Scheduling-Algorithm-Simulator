@@ -5,8 +5,8 @@ An interactive simulator for learning and testing various CPU scheduling algorit
 ## Demo Images
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/844f75aa-0d8b-48a6-a111-62e76675c03a" width="45%" />
-  <img src="https://github.com/user-attachments/assets/2538b253-1887-448f-a48a-04d80825fb30" width="45%" />
+  <img src="https://github.com/user-attachments/assets/844f75aa-0d8b-48a6-a111-62e76675c03a" width="49%" />
+  <img src="https://github.com/user-attachments/assets/2538b253-1887-448f-a48a-04d80825fb30" width="49%" />
 </div>
 
 ## Table of Contents
